@@ -36,3 +36,30 @@ O CPF do cliente é armazenado no formato **criptografado com hash MD5**, para g
 
 ---
 
+## 🧠 Tecnologias e Conceitos Utilizados
+Python 3
+
+Manipulação de arquivos JSON
+
+Funções, laços e condicionais
+
+Validação de dados
+
+Hash MD5 (hashlib)
+
+Informações de rede com socket
+
+Conceitos da LGPD e Segurança da Informação
+
+---
+
+## 📜 Licença
+Este projeto é apenas para fins acadêmicos e está aberto para uso e modificação.
+
+---
+
+## 👨‍💻 Autores
+Arthur Diaz
+Igor Da Silva
+Curso: Análise e Desenvolvimento de Sistemas - UNIP
+PIM II – 1º Semestre
