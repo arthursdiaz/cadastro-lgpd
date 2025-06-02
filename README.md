@@ -36,9 +36,3 @@ O CPF do cliente é armazenado no formato **criptografado com hash MD5**, para g
 
 ---
 
-## ▶️ Como Executar
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
